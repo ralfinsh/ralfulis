@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://ralfinsh.github.io/ralfulis/static/css/main.5880634b.css",
-    "main.js": "https://ralfinsh.github.io/ralfulis/static/js/main.fa7a68a2.js",
-    "static/js/787.f9190f57.chunk.js": "https://ralfinsh.github.io/ralfulis/static/js/787.f9190f57.chunk.js",
-    "index.html": "https://ralfinsh.github.io/ralfulis/index.html",
-    "main.5880634b.css.map": "https://ralfinsh.github.io/ralfulis/static/css/main.5880634b.css.map",
-    "main.fa7a68a2.js.map": "https://ralfinsh.github.io/ralfulis/static/js/main.fa7a68a2.js.map",
-    "787.f9190f57.chunk.js.map": "https://ralfinsh.github.io/ralfulis/static/js/787.f9190f57.chunk.js.map"
+    "main.css": "https://ralfinsh.github.io/wordle/static/css/main.5880634b.css",
+    "main.js": "https://ralfinsh.github.io/wordle/static/js/main.61d1fd0c.js",
+    "static/js/787.e01666d6.chunk.js": "https://ralfinsh.github.io/wordle/static/js/787.e01666d6.chunk.js",
+    "index.html": "https://ralfinsh.github.io/wordle/index.html",
+    "main.5880634b.css.map": "https://ralfinsh.github.io/wordle/static/css/main.5880634b.css.map",
+    "main.61d1fd0c.js.map": "https://ralfinsh.github.io/wordle/static/js/main.61d1fd0c.js.map",
+    "787.e01666d6.chunk.js.map": "https://ralfinsh.github.io/wordle/static/js/787.e01666d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5880634b.css",
-    "static/js/main.fa7a68a2.js"
+    "static/js/main.61d1fd0c.js"
   ]
 }
